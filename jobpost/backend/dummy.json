@@ -1,0 +1,22 @@
+{
+    "jobProvider":[
+      {
+        "id": 1,
+        "name": "Sebastian",
+        "address": "Eschweiler",
+        "categories": "Computer Repair"
+      },
+      {
+        "id": 2,
+        "name": "Steve",
+        "address": "Palmer",
+        "categories": "AC Repair"
+      },
+      {
+        "id": 3,
+        "name": "Ann",
+        "address": "Smith",
+        "categories": "Mobile Repair"
+      }
+    ]
+  }
